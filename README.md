@@ -14,10 +14,13 @@ I'm studying hard day and night because I want to be a good developer :)
  
  * * *
  
-#### 🌻Tech Stack
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
+#### <h3>🌻Tech Stack</h3>
+
+![java Badge](https://img.shields.io/badge/java-ff0000?style=flat&logoColor=white)
+![Oracle Badge](https://img.shields.io/badge/oracle-F80000?style=flat)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat)
+![javascript Badge](https://img.shields.io/badge/javascropt-F7DF1E?style=flat)
 
 
 
