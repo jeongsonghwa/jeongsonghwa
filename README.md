@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Shark&color=random&height=230&section=header)
 
 <div align="center">
-# 👋Welcome
-I am a student who dreams of being a full-tech developer 
+# 👋Welcome</br>
+I am a student who dreams of being a full-tech developer </br>
 I'm studying hard day and night because I want to be a good developer :)
 
 * * *
