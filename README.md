@@ -1,16 +1,25 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Shark&color=random&height=230&section=header)
 
-<!--
-**jeongsonghwa/jeongsonghwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+# 👋Welcome
+I am a student who dreams of being a full-tech developer 
+I'm studying hard day and night because I want to be a good developer :)
 
-Here are some ideas to get you started:
+* * *
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌻My Blog
+ <img src="https://songg5453.tistory.com/{Tistory}-{#ffa500}?style={flat}"/>
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS2#1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+
+ 
+ * * *
+ 
+#### 🌻Tech Stack
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
+
+
+
+</div>
