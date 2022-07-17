@@ -14,7 +14,7 @@ I'm studying hard day and night because I want to be a good developer :)
 <h3>🌻My Blog</h3>
 
 
-[![Tistory Badge](https://img.shields.io/badge/Tistory-ff7f00?style=flat&logoColor=white)](https://https://songg5453.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-ff7f00?style=flat&logoColor=white)](https://songg5453.tistory.com/)
 
  * * *
  
